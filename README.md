@@ -19,7 +19,7 @@ To set the parameter you simply edit the PowerOfTwo_Custom.bat and it should loo
 The "" aren't required as long as your path doesn't contain whitespaces.
     
 ## Dependencies:
-PowerOfTwo requires "sys","getopt","magic","os", and "re"
+PowerOfTwo requires sys, getopt, magic, os, and re
 
 Building the exe requires cx_Freeze as well as idna
 >pip install cx_Freeze idna
